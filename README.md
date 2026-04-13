@@ -1,6 +1,7 @@
 
 
-![demo](1.gif)
+<img src="1.gif" alt="demo1" width="400">
+<img src="2.gif" alt="demo2" width="400">
 
 
 
