@@ -1,3 +1,9 @@
+
+
+![demo](1.gif)
+
+
+
 # NavGPT
 ## 克隆远程git仓库到本地
   git clone https://github.com/GengzeZhou/NavGPT.git
